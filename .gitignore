@@ -1,1 +1,7 @@
 *.ckpt
+*.pt
+*.pth
+*.onnx
+data/
+*.slurm
+*.out
